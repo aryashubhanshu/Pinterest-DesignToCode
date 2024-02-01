@@ -1,0 +1,265 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Gilroy;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+#main {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-image: url(./assets/main.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+#nav {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 4vw 5vw;
+    color: #fff;
+    z-index: 99;
+}
+
+#nav h2 {
+    color: #fff;
+}
+
+#nav #nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+#nav i {
+    display: none;
+}
+
+#nav #nav-links a {
+    color: #fff;
+}
+
+#nav #nav-links a:nth-child(1) {
+    padding-bottom: 5px;
+    border-bottom: 3px solid #fff;
+}
+
+#main #left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+    width: 30%;
+    gap: 50px;
+    background-color: rgba(0,0,0,0.3);
+    padding: 0 5vw;
+}
+
+#left .place {
+    width: 100%;
+    color: #fff;
+}
+
+.place h4 {
+    display: inline-block;
+    opacity: 0.7;
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+#left .place:nth-child(2) h4 {
+    font-size: 50px;
+    opacity: 1;
+    white-space: nowrap;
+    border-bottom: 3px solid #fff;
+}
+
+#left .place:nth-child(2) h6 {
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.place h4 {
+    font-weight: 500;
+}
+
+.place h6 {
+    font-size: 12px;
+    font-weight: 600;
+    opacity: 0.4;
+}
+
+#left #scroll {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    gap: 5px;
+    bottom: -20px;
+    left: 30%;
+    color: #fff;
+    transform-origin: 0 50%;
+    transform: translate(-50%, 0%) rotate(-90deg);
+}
+
+#left #scroll #line {
+    width: 70px; 
+    height: 2px;
+    background-color: #fff;
+}
+
+#main #right {
+    height: 100%;
+    width: 70%;
+    color: #fff;
+}
+
+#main #right #text {
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 30px;
+    padding: 50px;
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    color: #fff;
+    transform: translate(0, -50%);
+    text-align: right;
+}
+
+#text #input {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 40px;
+}
+
+#right #text h3 {
+    font-weight: 400;
+    font-size: 2.4vw;
+}
+
+#right #text h1 {
+    line-height: 1;
+    font-size: 10vw;
+    font-weight: 600;
+}
+
+#text input {
+    width: 100%;
+    padding: 12px 10px;
+    font-size: 25px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid white;
+    outline: none;
+    color: #fff;    
+}
+
+#text #input i {
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+#text input::placeholder {
+    color: #fff;
+}
+
+#right small {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+@media (max-width: 500px) {
+    #main #nav {
+        height: 70px;
+        padding: 0 20px;
+    }
+
+    #nav #nav-links {
+        display: none;
+    }
+
+    #nav h2 {
+        font-size: 18px;
+    }
+
+    #nav i {
+        display: initial;
+    }
+
+    #main {
+        flex-direction: column;
+    }
+
+    #main #left {
+        width: 100%;
+        height: 65%;
+        padding: 0 20px;
+    }
+
+    #left .place:nth-child(2) h4 {
+        font-size: 30px;
+    }
+
+    #left .place:nth-child(2) h6 {
+        font-size: 15px;
+    }
+
+    #left #scroll {
+        display: none;
+    }
+
+    #main #right {
+        width: 100%;
+        height: 35%;
+    }
+
+    #main #right #text {
+        border-radius: 20px;
+        padding: 20px;
+        top: 80%;
+        right: 5%;
+    }
+
+    #right #text h1 {
+        font-size: 14vw;
+    }
+
+    #right #text h3 {
+        font-size: 4vw;
+    }
+    
+    #text input {
+        width: 100%;
+        padding: 12px 10px;
+        font-size: 16px; 
+    }
+
+    #text #input i {
+        font-size: 20px;
+    }
+
+    #right small {
+        bottom: 5%;
+        left: 5%;
+    }
+}
