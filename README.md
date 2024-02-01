@@ -10,3 +10,8 @@ Please note:
 
 <h3>GardenNerds</h3>
 <img width="1319" alt="Screenshot 2024-02-01 at 1 19 51 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/acead63e-bf51-492a-8284-9698e763ece9">
+
+<br>
+<br>
+<h3>The Great Escape</h3>
+<img width="1319" alt="Screenshot 2024-02-01 at 1 22 55 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/7ab4a134-5c8c-4f32-90d6-6753fd959d32">
