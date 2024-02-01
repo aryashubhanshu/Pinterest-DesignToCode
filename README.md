@@ -28,6 +28,11 @@ Please note:
 
 <br>
 <br>
+<h3>Explorers</h3>
+<img width="1319" alt="Screenshot 2024-02-01 at 1 34 36 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/c9f9aa69-9844-4160-85ce-2b8e645e7709">
+
+<br>
+<br>
 <h3>Toplik</h3>
 <video autoplay loop muted src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/06579e1d-59b4-432b-b9a5-394cfa0b1a4e">
 
