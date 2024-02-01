@@ -25,3 +25,10 @@ Please note:
 <br>
 <h3>Modern Architecture</h3>
 <img width="1319" alt="Screenshot 2024-02-01 at 1 26 51 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/be557076-bf1a-4d58-8f4d-a60e68534fbe">
+
+<br>
+<br>
+<h3>Toplik</h3>
+<video autoplay loop muted src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/06579e1d-59b4-432b-b9a5-394cfa0b1a4e">
+
+
