@@ -15,3 +15,8 @@ Please note:
 <br>
 <h3>The Great Escape</h3>
 <img width="1319" alt="Screenshot 2024-02-01 at 1 22 55 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/7ab4a134-5c8c-4f32-90d6-6753fd959d32">
+
+<br>
+<br>
+<h3>Tours & Travels.</h3>
+<img width="1319" alt="Screenshot 2024-02-01 at 1 24 48 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/8e20c2ae-cd86-4825-8f9c-8e0a42ba3da4">
