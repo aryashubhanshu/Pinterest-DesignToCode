@@ -8,7 +8,7 @@ Please note:
 <li>Functionality: While I've aimed to accurately reproduce the visuals, some designs may lack full functionality compared to the original versions.</li>
 <li>Structure: Designs are organized in subfolders</li>
 
-<h3>GardenNerds</h3>
+<h3>Garden Nerds</h3>
 <img width="1319" alt="Screenshot 2024-02-01 at 1 19 51 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/acead63e-bf51-492a-8284-9698e763ece9">
 
 <br>
@@ -20,3 +20,8 @@ Please note:
 <br>
 <h3>Tours & Travels.</h3>
 <img width="1319" alt="Screenshot 2024-02-01 at 1 24 48 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/8e20c2ae-cd86-4825-8f9c-8e0a42ba3da4">
+
+<br>
+<br>
+<h3>Modern Architecture</h3>
+<img width="1319" alt="Screenshot 2024-02-01 at 1 26 51 PM" src="https://github.com/aryashubhanshu/Pinterest-WebsiteDesigns/assets/90999253/be557076-bf1a-4d58-8f4d-a60e68534fbe">
